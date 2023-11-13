@@ -55,7 +55,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ffukamizu/ffukamizu/output/snake.svg" alt="Snake animation" />
-
-###
