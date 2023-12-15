@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Fernando, haling from Brazil<br><br>- 🔭 I’m working as a analyst<br>- 📚 I'm currently into data engineering and analysis</p>
+<p align="left">I'm Fernando, hailing from Brazil<br><br>- 🔭 I’m working as a analyst<br>- 📚 I'm currently into data engineering and analysis</p>
 
 ###
 
